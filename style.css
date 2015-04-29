@@ -1,0 +1,45 @@
+body {
+  background-color: #4EB980;
+  }
+
+.name {
+  background-color: #4EB980;
+  width: 40%;
+  height: 40px;
+  margin-left: 3%;
+  margin-right: 5%;
+
+  border-size: 1px;
+  border-color: white;
+  border-style: line;
+  padding: 20px;
+}
+
+.email {
+  background-color: #4EB980;
+  width: 40%;
+  height: 40px;
+  padding: 20px;
+  border-size: 1px;
+  border-color: white;
+  border-style: line;
+
+}
+
+textarea {
+  background-color: #4EB980;
+  width: 91.7%;
+  height: 300px;
+  border-size: 1px;
+  border-color: white;
+  border-style: line;
+  margin-left: 3%;
+  margin-right: 0%;
+  margin-top: 5%;
+}
+
+.submit {
+  background-color: #fff;
+  margin-left: 45%;
+  border: none;
+}
