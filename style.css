@@ -8,10 +8,11 @@ body {
   height: 40px;
   margin-left: 3%;
   margin-right: 5%;
+  font-size: 20px;
 
   border-size: 1px;
   border-color: white;
-  border-style: line;
+  border-style: solid;
   padding: 20px;
 }
 
@@ -22,7 +23,9 @@ body {
   padding: 20px;
   border-size: 1px;
   border-color: white;
-  border-style: line;
+  border-style: solid;
+  font-size: 20px;
+
 
 }
 
@@ -32,18 +35,23 @@ textarea {
   height: 300px;
   border-size: 1px;
   border-color: white;
-  border-style: line;
+  border-style: solid;
   margin-left: 3%;
   margin-right: 0%;
   margin-top: 5%;
+  font-size: 20px;
+
 }
 
 .submit {
   background-color: #fff;
-  margin-left: 42.5%;
+  border-radius: 15px;
+  margin-left: 35%;
+  margin-top: 3%;
+  padding: 20px;
   border: none;
-  width: 180px;
-  height: 90px;
+  width: 360px;
+  height: 80px;
   color: #4EB980;
   font-weight: bold;
   font-size: 20px;
